@@ -1,7 +1,6 @@
 Username = Admin
 Pass = 1234
 
-carRantal.bak is the database file , to be opened in MICROSOFT SQL SERVER MANAGEMENT STUDIO, it is a back- up file of the database you need to connect in order to add the 
-information into the tables 
-
+carRantal.bak is the database file and need to be opened in MICROSOFT SQL SERVER MANAGEMENT STUDIO.
+SQL servers should be running and database needs to be connected in order to store the information.
 Thank You :D 
